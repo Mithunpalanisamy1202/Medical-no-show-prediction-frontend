@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff3fe708.css",
+    "main.js": "/static/js/main.283113bc.js",
+    "static/js/787.2746eaee.chunk.js": "/static/js/787.2746eaee.chunk.js",
+    "static/media/wallpaperflare.com_wallpaper.jpg": "/static/media/wallpaperflare.com_wallpaper.6e4d5eaea4ad94f4d758.jpg",
+    "static/media/Mukta-Bold.ttf": "/static/media/Mukta-Bold.6a7897f127e01e4b0d8f.ttf",
+    "static/media/logo.png": "/static/media/logo.f64bc93ff39832e7496d.png",
+    "static/media/gettyimages-1391152206-612x612.jpg": "/static/media/gettyimages-1391152206-612x612.4b5863ab7dda4ad0cb07.jpg",
+    "index.html": "/index.html",
+    "main.ff3fe708.css.map": "/static/css/main.ff3fe708.css.map",
+    "main.283113bc.js.map": "/static/js/main.283113bc.js.map",
+    "787.2746eaee.chunk.js.map": "/static/js/787.2746eaee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff3fe708.css",
+    "static/js/main.283113bc.js"
+  ]
+}
