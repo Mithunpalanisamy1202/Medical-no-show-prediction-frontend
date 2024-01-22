@@ -4,7 +4,7 @@ function Sticky(){
 <div className="container-fluid ch1">
         <nav className="navbar container p-2 stick sticky-top">
           <div>
-            <a className="navbar-brand a01" >
+            <a className="navbar-brand a01" href="#">
               <img
                 width="20"
                 height="20"
@@ -13,7 +13,7 @@ function Sticky(){
               />{" "}
               samplemail@domain.com
             </a>
-            <a className="navbar-brand a01" >
+            <a className="navbar-brand a01" href="#">
               <img
                 width="20"
                 height="20"

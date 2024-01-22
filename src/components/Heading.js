@@ -10,7 +10,7 @@ function Heading({showLogin , onLoginClick ,showLogout,onLogoutclick}){
         <>
         <div className="container gap-5 d-flex ">
         <nav className="navbar navbar-expand-lg headsp">
-          <a className="navbar-brand l01 align-items-center margin " >
+          <a className="navbar-brand l01 align-items-center margin " href="#" >
             <img
               src={logo}
               alt="Logo"
@@ -39,17 +39,17 @@ function Heading({showLogin , onLoginClick ,showLogout,onLogoutclick}){
                 </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" >
+                <a className="nav-link" href="#">
                   About
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" >
+                <a className="nav-link" href="#" >
                   Services
                 </a>
               </li>
               <li className="nav-item dropdown">
-                <a
+                <a href="#"
                   className="nav-link dropdown-toggle"
                   
                   role="button"
@@ -60,12 +60,12 @@ function Heading({showLogin , onLoginClick ,showLogout,onLogoutclick}){
                 </a>
                 <ul className="dropdown-menu">
                   <li>
-                    <a className="dropdown-item" >
+                    <a className="dropdown-item" href="#">
                     Opthomology
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" >
+                    <a className="dropdown-item" href="#">
                       Cardiology
                     </a>
                   </li>
@@ -73,7 +73,7 @@ function Heading({showLogin , onLoginClick ,showLogout,onLogoutclick}){
                     <hr className="dropdown-divider" />
                   </li>
                   <li>
-                    <a className="dropdown-item" >
+                    <a className="dropdown-item" href="#">
                       Others
                     </a>
                   </li>
@@ -82,7 +82,7 @@ function Heading({showLogin , onLoginClick ,showLogout,onLogoutclick}){
               <li className="nav-item dropdown">
                 <a
                   className="nav-link dropdown-toggle"
-                  
+                  href="#"
                   role="button"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
@@ -91,12 +91,12 @@ function Heading({showLogin , onLoginClick ,showLogout,onLogoutclick}){
                 </a>
                 <ul className="dropdown-menu">
                   <li>
-                    <a className="dropdown-item" >
+                    <a className="dropdown-item" href="#">
                       Ashok
                     </a>
                   </li>
                   <li>
-                    <a className="dropdown-item" >
+                    <a className="dropdown-item" href="#">
                       Thomas
                     </a>
                   </li>
@@ -104,7 +104,7 @@ function Heading({showLogin , onLoginClick ,showLogout,onLogoutclick}){
                     <hr className="dropdown-divider" />
                   </li>
                   <li>
-                    <a className="dropdown-item" >
+                    <a className="dropdown-item" href="#">
                       Hussain
                     </a>
                   </li>
