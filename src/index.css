@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden; 
+  font-family:'myFont' ;
+  height:100vh;
+}
+
+html,
+body,
+#root,
+.content {
+  height: 100vh;
+}
+
+@font-face {
+  font-family: "myFont";
+  src: url('./fonts/Mukta/Mukta-Bold.ttf') format('truetype');
+}
