@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Medical-no-show-prediction-frontend/static/css/main.9942bbb7.css",
-    "main.js": "/Medical-no-show-prediction-frontend/static/js/main.65b63e84.js",
-    "static/js/787.2746eaee.chunk.js": "/Medical-no-show-prediction-frontend/static/js/787.2746eaee.chunk.js",
+    "main.css": "/Medical-no-show-prediction-frontend/static/css/main.9dab153e.css",
+    "main.js": "/Medical-no-show-prediction-frontend/static/js/main.a2865b04.js",
+    "static/js/787.74d28abc.chunk.js": "/Medical-no-show-prediction-frontend/static/js/787.74d28abc.chunk.js",
     "static/media/wallpaperflare.com_wallpaper.jpg": "/Medical-no-show-prediction-frontend/static/media/wallpaperflare.com_wallpaper.6e4d5eaea4ad94f4d758.jpg",
     "static/media/Mukta-Bold.ttf": "/Medical-no-show-prediction-frontend/static/media/Mukta-Bold.6a7897f127e01e4b0d8f.ttf",
     "static/media/logo.png": "/Medical-no-show-prediction-frontend/static/media/logo.f64bc93ff39832e7496d.png",
     "static/media/gettyimages-1391152206-612x612.jpg": "/Medical-no-show-prediction-frontend/static/media/gettyimages-1391152206-612x612.4b5863ab7dda4ad0cb07.jpg",
     "index.html": "/Medical-no-show-prediction-frontend/index.html",
-    "main.9942bbb7.css.map": "/Medical-no-show-prediction-frontend/static/css/main.9942bbb7.css.map",
-    "main.65b63e84.js.map": "/Medical-no-show-prediction-frontend/static/js/main.65b63e84.js.map",
-    "787.2746eaee.chunk.js.map": "/Medical-no-show-prediction-frontend/static/js/787.2746eaee.chunk.js.map"
+    "main.9dab153e.css.map": "/Medical-no-show-prediction-frontend/static/css/main.9dab153e.css.map",
+    "main.a2865b04.js.map": "/Medical-no-show-prediction-frontend/static/js/main.a2865b04.js.map",
+    "787.74d28abc.chunk.js.map": "/Medical-no-show-prediction-frontend/static/js/787.74d28abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9942bbb7.css",
-    "static/js/main.65b63e84.js"
+    "static/css/main.9dab153e.css",
+    "static/js/main.a2865b04.js"
   ]
 }
