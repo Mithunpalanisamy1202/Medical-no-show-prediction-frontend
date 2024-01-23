@@ -41,9 +41,9 @@ function Home() {
       setLoginOpen(false);
       
     };
-    const handletoChart = ()=>{
-      navigate('/chart');
-    }
+    // const handletoChart = ()=>{
+    //   navigate('/chart');
+    // }
   return ( 
     <>
    <Sticky/>
@@ -86,8 +86,8 @@ function Home() {
                 Get all time support for emergency. We have introduced the
                 principle of family medicare.
               </p>
-              {/* <button onClick={handletoForm} className="btn btn2 btn-secondary"> */}
-              <button onClick={handletoChart} className="btn btn2 btn-secondary">
+              <button onClick={handletoForm} className="btn btn2 btn-secondary">
+              {/* <button onClick={handletoChart} className="btn btn2 btn-secondary"> */}
                 Make appointment
               </button>
             </div>

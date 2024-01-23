@@ -3,14 +3,14 @@ import Home from "./components/Home";
 import Form from "./components/Form";
 import Chart from "./components/Chart";
 import "./App.css";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import ModelExplainability from "./components/ModelExplainability";
 function App() {
  
   return (
 
     <>
-    <BrowserRouter>
+    <Router>
       <Routes>
         <Route path="/login" element={<Login />} />
         <Route path="/" element={<Home />} />
@@ -19,7 +19,7 @@ function App() {
         <Route path="/model" element={<ModelExplainability/>}/>
 
       </Routes>
-    </BrowserRouter>
+    </Router>
 
     </>
   );
